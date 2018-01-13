@@ -48,6 +48,9 @@ Feature selection (of 12 attributes) is done in R by using the following methods
 - Random Forest
 - More to come!
 
+## Grading Scale
+The accuracy is based on the number of matches between the predicted values and the actual values. Since there is no set test set, I'm using half of the wine data as my training set, and half as my testing. 
+
 ## Citation:
 
 P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. 
